@@ -1,0 +1,11 @@
+chromadb
+sentence-transformers
+transformers
+torch
+soundfile~=0.13.1
+g2p_en
+nltk~=3.9.1
+playsound
+tensorboardX
+Numpy
+fairseq~=0.12.2
