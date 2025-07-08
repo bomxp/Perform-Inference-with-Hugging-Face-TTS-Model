@@ -7,5 +7,5 @@ g2p_en
 nltk~=3.9.1
 playsound
 tensorboardX
-Numpy
+Numpy~=1.26.4
 fairseq~=0.12.2
